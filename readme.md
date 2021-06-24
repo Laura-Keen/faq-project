@@ -25,7 +25,7 @@ ____
 ## Planning
 ____
 
-### *Componenets:*
+### *Components:*
 
 **Header Section**
 - `*` - for all elements (use for max width)
@@ -40,6 +40,7 @@ ____
 - `main-section` - for containing whole faq section
 - `faq` - to wrap faqs 
 - `faq-button` - wrap faq's buttons 
+- `faq-wrapper` - wrap faq's buttons with the content
 - `content` - contain answer to the questions
 - `live-chat` - live chat button
 - `collapsible` - assign class to faq buttons to make them collapsible with JS

@@ -42,3 +42,25 @@ h2 {
     align-items: center;
     color: #ABB4CB;
     }
+
+.main-section {
+  padding-top: 51px;
+}
+
+.faq {
+  border-bottom: 1px solid #7AC7C4;
+}
+
+button {
+  padding: 24px 24px 24px 0px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  color: #384259;
+  display: flex;
+  background: #fff;
+  border: none;
+}
+

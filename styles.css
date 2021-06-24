@@ -64,3 +64,16 @@ h2 {
   border: none;
 }
 
+.content {
+  color: #384259;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 140%;
+  display: none;
+  flex: none;
+  margin-left: 40px;
+  background: #fff;
+}
+

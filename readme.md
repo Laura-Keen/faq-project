@@ -42,6 +42,7 @@ ____
 - `faq-button` - wrap faq's buttons 
 - `content` - contain answer to the questions
 - `live-chat` - live chat button
+- `collapsible` - assign class to faq buttons to make them collapsible with JS
 
 **Footer**
 - `footer` - contain text to send an email

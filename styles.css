@@ -14,3 +14,31 @@ html { font-family: 'Inter', sans-serif; }
   max-width: 900px;
   margin: 0 auto;
 }
+
+.header-box {
+  background: #384259;
+  padding-top: 108px;
+  padding-bottom: 82px;
+  }
+
+h1 {
+  width: 500px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 44px;
+  color: #fff;
+  }
+    
+h2 {
+    width: 839px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    display: flex;
+    align-items: center;
+    color: #ABB4CB;
+    }

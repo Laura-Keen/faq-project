@@ -77,3 +77,21 @@ h2 {
   background: #fff;
 }
 
+.footer {
+  color: #343F56;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 140%;
+  padding-top: 183px;
+}
+
+a {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 140%;
+  color: #343F56;
+}

@@ -38,9 +38,10 @@ ____
 
 **Main Body**
 - `main-section` - for containing whole faq section
-- `faq` - to wrap faq buttons
-- `button` - to make the faq's drop down
+- `faq` - to wrap faqs 
+- `faq-button` - wrap faq's buttons 
 - `content` - contain answer to the questions
+- `live-chat` - live chat button
 
 **Footer**
 - `footer` - contain text to send an email

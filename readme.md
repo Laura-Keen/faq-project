@@ -1,5 +1,5 @@
 # FAQ Page - InkTrap
-
+[Task](#task) | [Notes](#notes) | [Planning](#planning) | [Improvements](#improvements)
 ## Task 
 ____
 
@@ -123,7 +123,7 @@ Addded top margin to entire FAQ section.
 Again, this gave top padding to the whole FAQ section. 
 
 ### **Bottom Border**
-I wanted to remove part of the left section of the bottom border so that it didn't extent to under the plus and minus icons.
+I wanted to remove part of the left section of the bottom border so that it didn't extend to underneath the plus and minus icons.
 
 *Attempt 1:* Tried making the border width a percentage of the page.
 This was difficult because the border bottom is part of the `faq` class which also contains the icons. Moving the icons outside of the `faq` class would break the JavaScript.
@@ -135,7 +135,7 @@ This was difficult because the border bottom is part of the `faq` class which al
 ```
 Didn't do anything to the code.
 
-*Attempt 1:* Tried changing border width with pixels.
+*Attempt 2:* Tried changing border width with pixels.
 ```
 .faq {
   border-bottom: 1px solid #7AC7C4;

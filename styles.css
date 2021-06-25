@@ -64,7 +64,6 @@ p {
   background: #fff;
   border: none;
   display: block;
-  
   padding: 24px 24px 24px 0px;
   text-align: left;
   width: 100%;
@@ -89,9 +88,10 @@ p {
   line-height: 140%;
   display: none;
   flex: none;
+  flex-direction: column;
   margin-left: 40px;
-  margin-bottom: 88px;
   background: #fff;
+  padding-bottom: 24px;
 }
 
 .live-chat {
@@ -99,26 +99,26 @@ p {
   color: #fff;
   border-radius: 100px;
   padding: 10px 16px;
-  width: 178px;
-  height: 40px;
   font-family: Inter;
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 19px;
-  align-items: center;
-  position: absolute;
-  margin-top: 258px;
+  width: fit-content;
+  margin-top: 32px;
 }
 
 .footer {
+  background: #F9F9FA;
   color: #343F56;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
   line-height: 140%;
-  padding-top: 183px;
+  padding-top: 57px;
+  padding-bottom: 57px;
+  width: 100vw;
 }
 
 a {

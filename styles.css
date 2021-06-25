@@ -75,6 +75,10 @@ p {
   width: 100%;
 }
 
+.faq-button:hover{
+  color: #7AC7C4;
+}
+
 .plus {
   display: inline-block;
   margin-right: 16px;
@@ -114,8 +118,13 @@ p {
   margin-top: 32px;
 }
 
+.live-chat:hover {
+  background: #384259
+}
+
 .chat-img {
   margin-right: 6px;
+  padding-top: 3px;
 }
 
 .footer {

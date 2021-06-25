@@ -10,6 +10,11 @@ html { font-family: 'Inter', sans-serif; }
   border: 0;
 }
 
+html, body
+{
+  height: 100%;
+}
+
 .container {
   max-width: 900px;
   margin: 0 auto;
@@ -49,6 +54,7 @@ p {
 
 .main-section {
   padding-top: 51px;
+  padding-bottom: 126px;
 }
 
 .faq {
@@ -106,6 +112,10 @@ p {
   line-height: 19px;
   width: fit-content;
   margin-top: 32px;
+}
+
+.chat-img {
+  margin-right: 6px;
 }
 
 .footer {

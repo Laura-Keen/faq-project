@@ -90,7 +90,25 @@ p {
   display: none;
   flex: none;
   margin-left: 40px;
+  margin-bottom: 88px;
   background: #fff;
+}
+
+.live-chat {
+  background: #7AC7C4;
+  color: #fff;
+  border-radius: 100px;
+  padding: 10px 16px;
+  width: 178px;
+  height: 40px;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  align-items: center;
+  position: absolute;
+  margin-top: 258px;
 }
 
 .footer {

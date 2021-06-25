@@ -1,6 +1,6 @@
-var collapseButtons = document.getElementsByClassName("collapsible");
+var collapseButtons = document.
+getElementsByClassName("collapsible");
 var i;
-
 for (i= 0; i < collapseButtons.length; i++) {
   collapseButtons[i].addEventListener("click", function() {
     var content = this.nextElementSibling;
